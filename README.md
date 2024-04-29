@@ -28,5 +28,25 @@ This commands includes
 
 ## Output
 
+## PING:
+![Screenshot 2024-04-29 142019](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/8304a2f8-ddd5-4250-896f-42f7f2b1cce0)
+## Traceroute
+![Screenshot 2024-04-29 142031](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/3772fbd8-b14d-44fb-93f9-86f3d2903f16)
+
+## Ipconfig
+![Screenshot 2024-04-29 142058](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/7a361d3b-6feb-450a-834e-1049a6a41928)
+
+## Netstat
+![Screenshot 2024-04-29 142138](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/eb402621-afe9-4aff-8f23-bf94b9715e75)
+
+## FTP
+![Screenshot 2024-04-29 142228](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/85d83a77-4fea-4292-8839-0d792473dd47)
+
+## Curl 
+![Screenshot 2024-04-29 142312](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/6838210b-6920-4588-bdfe-563dc19850ce)
+
+## nslookup
+![Screenshot 2024-04-29 142405](https://github.com/Kirubanithi-123/4.Execution_of_NetworkCommends/assets/151388581/83aa6ce2-96a8-4eb0-8674-40d86e4bba1f)
+
 ## Result
 Thus Execution of Network commands Performed 
